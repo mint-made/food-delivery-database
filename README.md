@@ -1,6 +1,6 @@
 ## Food Delivery Database - A technical database solution designed in UML and created using MySQL (2019)
 ### Project Overview
-This project entails making a database for a food delivery company that delivers high-quality meals to residences in less than 20 minutes with a team of delivery bikes. The database needs to contains:
+This project entailed designing and creating a database for a food delivery company that delivers high-quality meals to residences in less than 20 minutes with a team of delivery bikes. The database was modeled using a UML diagram and created in MySQL using MySQL Workbench. The database needed to contains:
 - A list of clients
 - A list of the different daily menu items
 - A list of delivery drivers
