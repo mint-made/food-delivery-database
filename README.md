@@ -8,6 +8,7 @@ This project entailed designing and creating a database for a food delivery comp
 
 ### Technologies Utilized
 - MySQL database
+- UML diagrams
 
 ### Deliverables
 A [UML diagram](https://github.com/mint-made/food-delivery-database/blob/master/UML-diagram.pdf) has been made to model this technical architecture. A MySQL database has been created using MySQL Workbench to [create tables](https://github.com/mint-made/food-delivery-database/blob/master/table-setup.sql) for [mock data to be inserted](https://github.com/mint-made/food-delivery-database/blob/master/data-insertion.sql). Some [Example queries](https://github.com/mint-made/food-delivery-database/blob/master/query-examples.sql) have been created to demonstrate to the client how to retrieve specific data from the database.
